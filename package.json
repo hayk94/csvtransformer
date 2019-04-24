@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.20.0"
+    "commander": "^2.20.0",
+    "request": "^2.88.0",
+    "s3fs": "^2.5.0"
   }
 }
